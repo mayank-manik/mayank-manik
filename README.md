@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mayank-manik/mayank-manik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mayank Manik</h1>
-<h3 align="center">MERN developer and Competitive Coder</h3>
+<h3 align="center">You lose your grip and then you slip into the masterpiece.</h3>
 
 <h3 align="left">:mailbox: Reach me out!</h3>
 <p align="left">
